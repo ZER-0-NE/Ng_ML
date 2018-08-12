@@ -1,4 +1,4 @@
-I'm taking Andrew Ng's/Stanford University's machine learning [course](https://www.coursera.org/learn/machine-learning) on Coursera, but instead of doing the exercises in the recommended Matlab/Octave I'm implementing them from scratch in Python.
+I'm taking Andrew Ng's/Stanford University's machine learning [course](https://www.coursera.org/learn/machine-learning) on Coursera, but instead of doing the exercises in the recommended Matlab/Octave I'm implementing everything from scratch in Python.
 
 Contents:
 
