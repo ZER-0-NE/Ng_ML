@@ -2,8 +2,8 @@ I'm taking Andrew Ng's/Stanford University's machine learning [course](https://w
 
 Contents:
 
-* Ex1: Linear regression
-* Ex2: Logistic regression
-* Ex3: Multi-class classification and neural networks
-* Ex4: Neural networks learning
-* Ex5: Regularized linear regression and bias vs variance
+* Ex1: Linear regression (with one variable and with multiple variables)
+* Ex2: Logistic regression (including regularization)
+* Ex3: Multi-class classification (one-vs-all classification for handwritten number recognition) and neural networks (forward propagate a pre-trained NN for handwritten number recognition)
+* Ex4: Neural networks learning (build and train a NN from scratch, including backpropagation, for handwritten number recognition)
+* Ex5: Regularized linear regression and bias vs variance (including learning curves, polynomial regression)
