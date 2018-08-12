@@ -4,9 +4,20 @@ Contents:
 
 * Ex1: Linear regression
 
-   with one variable and with multiple variables)
+   With one variable and with multiple variables.
 
-* Ex2: Logistic regression (including regularization)
-* Ex3: Multi-class classification (one-vs-all classification for handwritten number recognition) and neural networks (forward propagate a pre-trained NN for handwritten number recognition)
-* Ex4: Neural networks learning (build and train a NN from scratch, including backpropagation, for handwritten number recognition)
-* Ex5: Regularized linear regression and bias vs variance (including learning curves, polynomial regression)
+* Ex2: Logistic regression
+
+   Including regularization.
+
+* Ex3: Multi-class classification  and neural networks
+
+   Handwritten number recognition using two different method: one-vs-all logistic regression, and forward propagating a pre-trained NN.
+
+* Ex4: Neural networks learning
+
+   Build and train a NN from scratch, including backpropagation, for handwritten number recognition.
+
+* Ex5: Regularized linear regression and bias vs variance
+
+   Including learning curves, polynomial regression.
