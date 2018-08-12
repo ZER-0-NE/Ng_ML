@@ -2,22 +2,22 @@ I'm taking Andrew Ng's/Stanford University's machine learning [course](https://w
 
 Contents:
 
-* Ex1: Linear regression
+* **Ex1: Linear regression**
 
    With one variable and with multiple variables.
 
-* Ex2: Logistic regression
+* **Ex2: Logistic regression**
 
    Including regularization.
 
-* Ex3: Multi-class classification  and neural networks
+* **Ex3: Multi-class classification  and neural networks**
 
-   Handwritten number recognition using two different method: one-vs-all logistic regression, and forward propagating a pre-trained NN.
+   Handwritten number recognition using two different methods: one-vs-all logistic regression, and forward propagating a pre-trained neural network.
 
-* Ex4: Neural networks learning
+* **Ex4: Neural networks learning**
 
-   Build and train a NN from scratch, including backpropagation, for handwritten number recognition.
+   Build and train a neural network from scratch, including backpropagation, for handwritten number recognition.
 
-* Ex5: Regularized linear regression and bias vs variance
+* **Ex5: Regularized linear regression and bias vs variance**
 
-   Including learning curves, polynomial regression.
+   Including learning curves and polynomial regression.
