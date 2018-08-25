@@ -21,3 +21,9 @@ Contents:
 * **Ex5: Regularized linear regression and bias vs variance**
 
    Including learning curves and polynomial regression.
+
+* **Ex6: Support Vector Machines**
+
+   **6.1**: Demonstrating scikit-learn SVMs with linear and Gaussian kernels on some sample 2D datasets.
+
+  **6.2**: Building an email spam classifier using natural language processing and a scikit-learn SVM.
