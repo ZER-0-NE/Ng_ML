@@ -34,4 +34,4 @@ Contents:
 
    7.1: Build a k-means clustering algorithm and use it for image compression.
 
-   7.2: Build a PCA algorithm and use dimensionality reduction for image compression and for visualisation.
+   7.2: Build a PCA algorithm and use it for image compression and for visualisation.
