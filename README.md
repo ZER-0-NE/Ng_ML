@@ -26,9 +26,9 @@ Contents:
 
 * **Ex6: Support Vector Machines**
 
-   6.1: Demonstrating scikit-learn SVMs with linear and Gaussian kernels on some sample 2D datasets.
+   6.1: Demonstrate scikit-learn SVMs with linear and Gaussian kernels on some sample 2D datasets.
 
-   6.2: Building an email spam classifier using natural language processing and a scikit-learn SVM.
+   6.2: Build an email spam classifier using natural language processing and a scikit-learn SVM.
 
 * **Ex7: K-means Clustering and Principal Component Analysis**
 
