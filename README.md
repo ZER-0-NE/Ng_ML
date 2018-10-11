@@ -1,6 +1,6 @@
 # Machine learning
 
-I'm taking Andrew Ng's/Stanford University's machine learning [course](https://www.coursera.org/learn/machine-learning) on Coursera, but instead of using the Matlab templates provided by the course, I'm implementing everything from scratch in Python.
+I completed Andrew Ng's/Stanford University's machine learning [course](https://www.coursera.org/learn/machine-learning) on Coursera, but instead of using the Matlab templates provided by the course, I implemented everything from scratch in Python.
 
 Contents:
 
@@ -35,3 +35,9 @@ Contents:
    7.1: Build a k-means clustering algorithm and use it for image compression.
 
    7.2: Build a PCA algorithm and use it for image compression and for visualisation.
+
+* **Ex8: Anomaly Detection and Recommender Systems**
+
+   8.1: Anomaly detection using a multivariate Gaussian model. Precision, recall, F1 score.
+
+   8.2: Build a recommender system and use it to recommend movies.
